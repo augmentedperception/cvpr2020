@@ -19,10 +19,10 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 
 ## When and Where
-TBD
+TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates.
 
 ## Program
 
-TBD
+Coming soon
 
 Please contact [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
