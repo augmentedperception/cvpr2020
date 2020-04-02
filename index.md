@@ -11,6 +11,13 @@ However, despite steady progress and encouraging results obtained by these 3D ca
 
 In this tutorial, we will show how to combine geometric pipelines with recent advances in neural rendering to construct disentangled 3D representations for photo-realistic renderings of humans in novel viewpoints and desired lighting conditions. We will walk the audience through the current state-of-the-art for 3D performance capture, highlighting the pros and cons of the various techniques. 
 
+In particular, in the first part of the tutorial we will focus on the capture system, that is the foundation for any machine learning methods that rely on supervised ground truth data. We will consider the hardware design choices for cameras, sensors, lighting, and depth estimation algorithms.  We will then describe all the steps needed to select and design the right depth sensing technology for a given application.
+
+In the second part we will then detail state-of-the-art methods to reconstruct humans with high fidelity. We will focus on topics such as 3D reconstruction, parametric and non-parametric tracking, mesh parameterization and compression. We will also detail traditional methods to compute reflectance and material properties of arbitrary objects.
+
+In the third part of the tutorial we will show how deep learning can be applied to overcome the limitations of the traditional capture and rendering pipelines. We will detail recent trends in disentangled representations for human capture, with particular emphasis on pose, viewpoint and lighting. Finally we will discuss multiple applications enabled by this system
+
+
 ## When and Where
 TBD
 
