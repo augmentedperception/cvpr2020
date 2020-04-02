@@ -15,7 +15,7 @@ In particular, in the first part of the tutorial we will focus on the capture sy
 
 In the second part we will then detail state-of-the-art methods to reconstruct humans with high fidelity. We will focus on topics such as 3D reconstruction, parametric and non-parametric tracking, mesh parameterization and compression. We will also detail traditional methods to compute reflectance and material properties of arbitrary objects.
 
-In the third part of the tutorial we will show how deep learning can be applied to overcome the limitations of the traditional capture and rendering pipelines. We will detail recent trends in disentangled representations for human capture, with particular emphasis on pose, viewpoint and lighting. Finally we will discuss multiple applications enabled by this system
+In the third part of the tutorial we will show how deep learning can be applied to overcome the limitations of the traditional capture and rendering pipelines. We will detail recent trends in disentangled representations for human capture, with particular emphasis on pose, viewpoint and lighting. Finally we will discuss multiple applications enabled by performance capture systems and machine learning.
 
 
 ## When and Where
