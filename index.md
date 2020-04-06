@@ -23,6 +23,113 @@ TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates
 
 ## Program
 
-Coming soon
+<table style="width:100%">
+  <tr>
+    <th><div align="center"> Time</div> </th>
+    <th><div align="center"> Title</div> </th> 
+    <th><div align="center"> Speaker</div> </th>
+  </tr>
+  <tr>
+    <td><div align="center"> 9:00 - 9:30 </div> </td>
+    <td><div align="center"> [Keynote] Digitizing Humans </div> </td> 
+    <td><div align="center"> Shahram Izadi<br/> Google </div> </td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Morning Session: <br/>3D Capture Systems for Groundtruth Generation </b> </div> </td> 
+    <td></td>
+  </tr>
+  <tr>
+    <td><div align="center"> 9:30 - 10:00 </div> </td>
+    <td><div align="center"> High Quality Depth Sensors for Volumetric Capture </div> </td> 
+    <td><div align="center"> Adarsh Kowdle<br/> Google </div> </td> 
+  </tr>  
+  <tr>
+    <td><div align="center"> 10:00 - 10:30 </div> </td>
+    <td><div align="center"> The Light Stage Hardware </div> </td> 
+    <td><div align="center"> Christoph Rhemann <br/> Google </div> </td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 10:30 - 10:45 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 10:45 - 11:30 </div> </td>
+    <td><div align="center"> Detect, Reconstruct, Track and Parameterized Humans </div> </td> 
+    <td><div align="center"> Kaiwen Gyo <br/> Google </div> </td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 11:30 - 12:10 </div> </td>
+    <td><div align="center"> Reflectance Estimation in Images, Videos and 3D Conten </div> </td> 
+    <td><div align="center"> Alex Ma <br/> Google </div> </td> 
+  </tr> 
+   <tr>
+    <td><div align="center"> 12:10 - 12:30 </div> </td>
+    <td><div align="center"> Groundtruth for Perception Tasks</div> </td> 
+    <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
+  </tr>     
+  <tr>
+    <td><div align="center"> 12:30 - 13:30 </div> </td>
+    <td><div align="center"> Lunch Break </div> </td> 
+    <td></td> 
+  </tr>   
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Afternoon Session: <br/>Deep Learning meets Light Stage
+ </b> </div> </td> 
+    <td></td>
+  </tr>  
+   <tr>
+    <td><div align="center"> 13:30 - 14:00 </div> </td>
+    <td><div align="center"> [Keynote] A Light Stage for (almost) Every Application </div> </td> 
+    <td><div align="center"> Paul Debevec <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 14:00 - 14:20 </div> </td>
+    <td><div align="center"> Learning to Predict Depth for Computational Photography </div> </td> 
+    <td><div align="center"> Yinda Zhang <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 14:20 - 14:40 </div> </td>
+    <td><div align="center"> Multi-view Pose Estimation and Tracking </div> </td> 
+    <td><div align="center"> Anastasia Tkach <br/> Google </div> </td> 
+  </tr>  
+    <tr>
+    <td><div align="center"> 14:40 - 15:00 </div> </td>
+    <td><div align="center"> Accurate Alpha Matting for Performance Capture </div> </td> 
+    <td><div align="center"> Sergio Orts-Escolano <br/> Google </div> </td> 
+  </tr> 
+   <tr>
+    <td><div align="center"> 15:00 - 15:20 </div> </td>
+    <td><div align="center"> Learning to Estimate Environmental Lighting </div> </td> 
+    <td><div align="center"> Chloe LeGendre <br/> Google </div> </td> 
+  </tr>  
+<tr>
+    <td><div align="center"> 15:20 - 15:40 </div> </td>
+    <td><div align="center"> Learning to Relight Images and Videos </div> </td> 
+    <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
+  </tr>    
+<tr>
+    <td><div align="center"> 15:40 - 16:00 </div> </td>
+    <td><div align="center"> Deep Implicit Compression </div> </td> 
+    <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
+  </tr>     
+    <td><div align="center"> 16:00 - 16:15 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+<tr>
+    <td><div align="center"> 16:00 - 16:35 </div> </td>
+    <td><div align="center"> Neural Rendering for Performance Capture </div> </td> 
+    <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
+  </tr> 
+  <tr>
+    <td><div align="center"> 16:35 - 17:00 </div> </td>
+    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoin </div> </td> 
+    <td><div align="center">  Abhimitra Meka, Rohit Pandey <br/> Google </div> </td> 
+  </tr> 
+
+    
+</table>
 
 Please contact [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
