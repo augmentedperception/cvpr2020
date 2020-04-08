@@ -56,12 +56,12 @@ TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates
   </tr>      
   <tr>
     <td><div align="center"> 10:45 - 11:30 </div> </td>
-    <td><div align="center"> Detect, Reconstruct, Track and Parameterized Humans </div> </td> 
+    <td><div align="center"> Detect, Reconstruct, Track and Parameterize Humans </div> </td> 
     <td><div align="center"> Kaiwen Gyo <br/> Google </div> </td> 
   </tr>      
   <tr>
     <td><div align="center"> 11:30 - 12:10 </div> </td>
-    <td><div align="center"> Reflectance Estimation in Images, Videos and 3D Conten </div> </td> 
+    <td><div align="center"> Reflectance Estimation in Images, Videos and 3D Content </div> </td> 
     <td><div align="center"> Alex Ma <br/> Google </div> </td> 
   </tr> 
    <tr>
@@ -125,7 +125,7 @@ TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates
   </tr> 
   <tr>
     <td><div align="center"> 16:35 - 17:00 </div> </td>
-    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoin </div> </td> 
+    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
     <td><div align="center">  Abhimitra Meka, Rohit Pandey <br/> Google </div> </td> 
   </tr> 
 
