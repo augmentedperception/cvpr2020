@@ -57,7 +57,7 @@ TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates
   <tr>
     <td><div align="center"> 10:45 - 11:30 </div> </td>
     <td><div align="center"> Detect, Reconstruct, Track and Parameterize Humans </div> </td> 
-    <td><div align="center"> Kaiwen Gyo <br/> Google </div> </td> 
+    <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
   </tr>      
   <tr>
     <td><div align="center"> 11:30 - 12:10 </div> </td>
