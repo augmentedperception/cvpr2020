@@ -107,7 +107,7 @@ TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates
   </tr>  
 <tr>
     <td><div align="center"> 15:20 - 15:40 </div> </td>
-    <td><div align="center"> Learning to Relight Images and Videos </div> </td> 
+    <td><div align="center"> Learning to Relight Images </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
   </tr>    
 <tr>
