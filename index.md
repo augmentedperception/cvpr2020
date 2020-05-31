@@ -19,7 +19,7 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 
 ## When and Where
-TBD - Check <a href="http://cvpr2020.thecvf.com/"> CVPR Website </a> for Updates.
+June 14th - 9.00 am PDT - Virtual. We are working with the CVPR organizers to figure out the details. Check this website for updates!
 
 ## Program
 
