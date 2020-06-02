@@ -20,7 +20,7 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 ## When and Where
 June 14th - 9.10 am PDT - Virtual, hosted on the CVPR Website.
-Talks are pre-recorded and attendees can watch them asychronously. Organizers will periodically check the chat rooms to answer questions.
+Talks are pre-recorded and attendees can watch them asychronously. Organizers will periodically check the comments to answer questions.
 
 ## Program
 
