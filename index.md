@@ -19,7 +19,8 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 
 ## When and Where
-June 14th - 9.00 am PDT - Virtual. We are working with the CVPR organizers to figure out the details. Check this website for updates!
+June 14th - 9.10 am PDT - Virtual, hosted on the CVPR Website.
+Talks are pre-recorded and attendees can watch them asychronously. Organizers will periodically check the chat rooms to answer questions.
 
 ## Program
 
@@ -30,15 +31,15 @@ June 14th - 9.00 am PDT - Virtual. We are working with the CVPR organizers to fi
     <th><div align="center"> Speaker</div> </th>
   </tr>
   <tr>
-    <td><div align="center"> 9:00 - 9:30 </div> </td>
-    <td><div align="center"> [Keynote] Digitizing Humans </div> </td> 
-    <td><div align="center"> Shahram Izadi<br/> Google </div> </td> 
-  </tr>
-  <tr>
     <td></td>
     <td><div align="center"> <b> Morning Session: <br/>3D Capture Systems for Groundtruth Generation </b> </div> </td> 
     <td></td>
   </tr>
+     <tr>
+    <td><div align="center"> 9:10 - 9:30 </div> </td>
+    <td><div align="center"> Learned Disentangled Representations for Perception Tasks</div> </td> 
+    <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
+  </tr>     
   <tr>
     <td><div align="center"> 9:30 - 10:00 </div> </td>
     <td><div align="center"> High Quality Depth Sensors for Volumetric Capture </div> </td> 
@@ -64,13 +65,8 @@ June 14th - 9.00 am PDT - Virtual. We are working with the CVPR organizers to fi
     <td><div align="center"> Reflectance Estimation in Images, Videos and 3D Content </div> </td> 
     <td><div align="center"> Alex Ma <br/> Google </div> </td> 
   </tr> 
-   <tr>
-    <td><div align="center"> 12:10 - 12:30 </div> </td>
-    <td><div align="center"> Groundtruth for Perception Tasks</div> </td> 
-    <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
-  </tr>     
   <tr>
-    <td><div align="center"> 12:30 - 13:30 </div> </td>
+    <td><div align="center"> 12:10 - 13:30 </div> </td>
     <td><div align="center"> Lunch Break </div> </td> 
     <td></td> 
   </tr>   
@@ -104,30 +100,26 @@ June 14th - 9.00 am PDT - Virtual. We are working with the CVPR organizers to fi
     <td><div align="center"> 15:00 - 15:20 </div> </td>
     <td><div align="center"> Learning to Estimate Environmental Lighting </div> </td> 
     <td><div align="center"> Chloe LeGendre <br/> Google </div> </td> 
-  </tr>  
+  </tr>   
 <tr>
     <td><div align="center"> 15:20 - 15:40 </div> </td>
-    <td><div align="center"> Learning to Relight Images </div> </td> 
-    <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
-  </tr>    
-<tr>
-    <td><div align="center"> 15:40 - 16:00 </div> </td>
     <td><div align="center"> Deep Implicit Compression </div> </td> 
     <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
   </tr>     
-    <td><div align="center"> 16:00 - 16:15 </div> </td>
+    <td><div align="center"> 15:40 - 16:00 </div> </td>
     <td><div align="center"> Coffee Break </div> </td> 
     <td></td> 
+  <tr>
+    <td><div align="center"> 16:00 - 16:20 </div> </td>
+    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
+    <td><div align="center">  Abhimitra Meka <br/> Google </div> </td> 
+  </tr>   
 <tr>
-    <td><div align="center"> 16:00 - 16:35 </div> </td>
+    <td><div align="center"> 16:20 - 16:40 </div> </td>
     <td><div align="center"> Neural Rendering for Performance Capture </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
   </tr> 
-  <tr>
-    <td><div align="center"> 16:35 - 17:00 </div> </td>
-    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
-    <td><div align="center">  Abhimitra Meka, Rohit Pandey <br/> Google </div> </td> 
-  </tr> 
+
 
     
 </table>
