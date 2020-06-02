@@ -19,7 +19,7 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 
 ## When and Where
-June 14th - 9.10 am PDT - Virtual, hosted on the CVPR Website.
+June 14th - 9.10 am PDT - Virtual, hosted on the official <a href=http://fry.vast.uccs.edu/disentangled-3d-representations/> CVPR Website</a>.
 <br>
 Talks are pre-recorded and attendees can watch them asychronously. 
 <br>
