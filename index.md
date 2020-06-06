@@ -60,7 +60,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>      
   <tr>
     <td><div align="center"> 10:45 - 11:30 </div> </td>
-    <td><div align="center"> Detect, Reconstruct, Track and Parameterize Humans </div> </td> 
+    <td><div align="center"> Reconstruct, Track and Parameterize Humans </div> </td> 
     <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
   </tr>      
   <tr>
