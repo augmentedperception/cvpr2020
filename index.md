@@ -51,7 +51,7 @@ Organizers will periodically check the comments to answer questions.
   <tr>
     <td><div align="center"> 10:00 - 10:30 </div> </td>
     <td><div align="center"> The Light Stage Hardware </div> </td> 
-    <td><div align="center"> Christoph Rhemann <br/> Google </div> </td> 
+    <td><div align="center"> Jay Busch, Matt Whalen <br/> Google </div> </td> 
   </tr>      
   <tr>
     <td><div align="center"> 10:30 - 10:45 </div> </td>
