@@ -61,7 +61,7 @@ Organizers will periodically check the comments to answer questions.
   <tr>
     <td><div align="center"> 10:45 - 11:30 </div> </td>
     <td><div align="center"> Reconstruct, Track and Parameterize Humans </div> </td> 
-    <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
+    <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
   </tr>      
   <tr>
     <td><div align="center"> 11:30 - 12:10 </div> </td>
