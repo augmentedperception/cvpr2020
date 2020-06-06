@@ -118,7 +118,7 @@ Organizers will periodically check the comments to answer questions.
     <td><div align="center">  Abhimitra Meka <br/> Google </div> </td> 
   </tr>   
 <tr>
-    <td><div align="center"> 16:20 - 16:40 </div> </td>
+    <td><div align="center"> 16:20 - 17:00 </div> </td>
     <td><div align="center"> Neural Rendering for Performance Capture </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
   </tr> 
