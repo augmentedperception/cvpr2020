@@ -114,7 +114,7 @@ Organizers will periodically check the comments to answer questions.
     <td></td> 
   <tr>
     <td><div align="center"> 16:00 - 16:20 </div> </td>
-    <td><div align="center"> 3D Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
+    <td><div align="center"> Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
     <td><div align="center">  Abhimitra Meka <br/> Google </div> </td> 
   </tr>   
 <tr>
