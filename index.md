@@ -81,7 +81,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>  
    <tr>
     <td><div align="center"> 13:30 - 14:00 </div> </td>
-    <td><div align="center"> > <a href="https://www.youtube.com/watch?v=XT4Z0RrqfMw">  [Keynote] A Light Stage for (almost) Every Application  </a></div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=XT4Z0RrqfMw">  [Keynote] A Light Stage for (almost) Every Application  </a></div> </td> 
     <td><div align="center"> Paul Debevec <br/> Google </div> </td> 
   </tr>    
   <tr>
@@ -101,7 +101,7 @@ Organizers will periodically check the comments to answer questions.
   </tr> 
    <tr>
     <td><div align="center"> 15:00 - 15:20 </div> </td>
-    <td><div align="center"> td><div align="center"> <a href="https://www.youtube.com/watch?v=WCuvE97k_HI"> Learning to Estimate Environmental Lighting </a>  </div> </td> 
+       <td><div align="center">  <a href="https://www.youtube.com/watch?v=WCuvE97k_HI"> Learning to Estimate Environmental Lighting </a>  </div> </td> 
     <td><div align="center"> Chloe LeGendre <br/> Google </div> </td> 
   </tr>   
 <tr>
