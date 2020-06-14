@@ -96,7 +96,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>  
     <tr>
     <td><div align="center"> 14:40 - 15:00 </div> </td>
-    <td><div align="center"> <a href="https://www.youtube.com/watch?v=19ujjv213K4&feature"> Accurate Alpha Matting for Performance Capture </a> </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=uySFz5rod9Q"> Accurate Alpha Matting for Performance Capture </a> </div> </td> 
     <td><div align="center"> Sergio Orts-Escolano <br/> Google </div> </td> 
   </tr> 
    <tr>
