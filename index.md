@@ -50,7 +50,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>  
   <tr>
     <td><div align="center"> 10:00 - 10:30 </div> </td>
-    <td><div align="center"> The Light Stage Hardware </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=N-KkrnLcKk4"> The Light Stage Hardware </a> </div> </td> 
     <td><div align="center"> Jay Busch, Matt Whalen <br/> Google </div> </td> 
   </tr>      
   <tr>
