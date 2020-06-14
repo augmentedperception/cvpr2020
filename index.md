@@ -19,7 +19,7 @@ In the third part of the tutorial we will show how deep learning can be applied 
 
 
 ## When and Where
-June 14th - 9.10 am PDT - Virtual, hosted on the official <a href="http://fry.vast.uccs.edu/disentangled-3d-representations"> CVPR Website</a>.
+June 14th - 9.10 am PDT - Virtual, hosted on the official <a href="http://cvpr20.com/disentangled-3d-representations"> CVPR Website</a>.
 <br>
 Talks are pre-recorded and attendees can watch them asychronously. 
 <br>
@@ -114,7 +114,8 @@ Organizers will periodically check the comments to answer questions.
     <td></td> 
   <tr>
     <td><div align="center"> 16:00 - 16:20 </div> </td>
-    <td><div align="center"> Disentanglement of Lighting, Appearance, Viewpoint </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=495IaZD2zNw
+"> Disentanglement of Lighting, Appearance, Viewpoint</a>  </div> </td> 
     <td><div align="center">  Abhimitra Meka <br/> Google </div> </td> 
   </tr>   
 <tr>
