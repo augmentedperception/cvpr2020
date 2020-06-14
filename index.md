@@ -40,7 +40,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>
      <tr>
     <td><div align="center"> 9:10 - 9:30 </div> </td>
-    <td><div align="center"> Learned Disentangled Representations for Perception Tasks</div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=QzIZ44-AVNo">  Learned Disentangled Representations for Perception Tasks </a> </div> </td> 
     <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
   </tr>     
   <tr>
@@ -60,7 +60,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>      
   <tr>
     <td><div align="center"> 10:45 - 11:30 </div> </td>
-    <td><div align="center"> Reconstruct, Track and Parameterize Humans </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=I9K-_KvbTRA">   Reconstruct, Track and Parameterize Humans </div> </td> 
     <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
   </tr>      
   <tr>
