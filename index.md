@@ -45,7 +45,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>     
   <tr>
     <td><div align="center"> 9:30 - 10:00 </div> </td>
-    <td><div align="center"> High Quality Depth Sensors for Volumetric Capture </div> </td> 
+    <td><div align="center">  <a href="https://www.youtube.com/watch?v=n7FBURR3jLU"> High Quality Depth Sensors for Volumetric Capture </a> </div> </td> 
     <td><div align="center"> Adarsh Kowdle<br/> Google </div> </td> 
   </tr>  
   <tr>
