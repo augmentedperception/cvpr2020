@@ -91,7 +91,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>    
   <tr>
     <td><div align="center"> 14:20 - 14:40 </div> </td>
-    <td><div align="center"> Multi-view Pose Estimation and Tracking </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=8teHODuBiEs">Multi-view Pose Estimation and Tracking </a> </div> </td> 
     <td><div align="center"> Anastasia Tkach <br/> Google </div> </td> 
   </tr>  
     <tr>
