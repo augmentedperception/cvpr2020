@@ -120,7 +120,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>   
 <tr>
     <td><div align="center"> 16:20 - 17:00 </div> </td>
-    <td><div align="center"> Neural Rendering for Performance Capture </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=5Jp3s6qgWfA"> Neural Rendering for Performance Capture </a> </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
   </tr> 
 
