@@ -65,7 +65,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>      
   <tr>
     <td><div align="center"> 11:30 - 12:10 </div> </td>
-    <td><div align="center"> Reflectance Estimation in Images, Videos and 3D Content </div> </td> 
+    <td><div align="center">  <a href="https://www.youtube.com/watch?v=KmkXIGejUiM"> Reflectance Estimation in Images, Videos and 3D Content </a> </div> </td> 
     <td><div align="center"> Alex Ma <br/> Google </div> </td> 
   </tr> 
   <tr>
