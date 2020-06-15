@@ -86,7 +86,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>    
   <tr>
     <td><div align="center"> 14:00 - 14:20 </div> </td>
-    <td><div align="center"> Learning to Predict Depth for Computational Photography </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=m_e1vOaF0kg"> Learning to Predict Depth for Computational Photography </a> </div> </td> 
     <td><div align="center"> Yinda Zhang <br/> Google </div> </td> 
   </tr>    
   <tr>
