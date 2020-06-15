@@ -106,7 +106,7 @@ Organizers will periodically check the comments to answer questions.
   </tr>   
 <tr>
     <td><div align="center"> 15:20 - 15:40 </div> </td>
-    <td><div align="center"> Deep Implicit Compression </div> </td> 
+    <td><div align="center"> <a href="https://www.youtube.com/watch?v=dE10hoW7xUo"> Deep Implicit Compression </a> </div> </td> 
     <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
   </tr>     
     <td><div align="center"> 15:40 - 16:00 </div> </td>
